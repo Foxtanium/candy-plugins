@@ -14,7 +14,7 @@ CandyShop.Bookmark = (function(self, Candy, $) {
       return true;
     });
   };
-};
+});
 /** File: bookmark.js
  * Candy Plugin - Bookmark rooms
  * Author: Ben Langfeld <blangfeld@mojolingo.com>
